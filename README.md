@@ -18,15 +18,15 @@ ShareMeal is a real-time mobile app that connects surplus food donors with NGOs.
 
 | Login & Signup | Donor Dashboard | Map Picker |
 |:-:|:-:|:-:|
-| ![Login](images/sm_login.jpeg) | ![Donor Dashboard](images/sm_donor_dashboard.jpeg) | ![Map Picker](images/sm_map_picker.jpeg) |
+| ![Login & Signup](images/sm_signup.jpeg) | ![Donor Dashboard](images/sm_donor_dashboard.jpeg) | ![Map Picker](images/sm_map_picker.jpeg) |
 
 | NGO Live Feed | Claim Detail & Nutrition | Pickup Map |
 |:-:|:-:|:-:|
-| ![NGO Feed](images/sm_ngo_feed.jpeg) | ![Claim Detail](images/sm_claim_detail.jpeg) | ![Pickup Map](images/sm_pickup_map.jpeg) |
+| ![NGO Live Feed](images/sm_ngo_feed.jpeg) | ![Claim Detail & Nutrition](images/sm_claim_detail.jpeg) | ![Pickup Map](images/sm_pickup_map.jpeg) |
 
 | Pending & Mark Pickup | Donation History | Confirm Claim |
 |:-:|:-:|:-:|
-| ![Pending](images/sm_pending.jpeg) | ![History](images/sm_history.jpeg) | ![Confirm](images/sm_confirm_claim.jpeg) |
+| ![Pending & Mark Pickup](images/sm_pending.jpeg) | ![Donation History](images/sm_history.jpeg) | ![Confirm Claim](images/sm_confirm_claim.jpeg) |
 
 ### What I built
 
@@ -37,7 +37,6 @@ ShareMeal is a real-time mobile app that connects surplus food donors with NGOs.
 - **Post Donation Bottom Sheet** — Full form with food name, quantity, veg toggle, image picker (camera/gallery), map-based location picker, and expiry time selector
 - **Map Picker Screen** — Interactive OpenStreetMap with search, reverse geocoding, pin placement, and structured address card
 - **Pickup Map Screen** — Navigation map showing donor location, NGO's current position, dotted polyline route, and distance badge
-- **Image Search Screen** — Unsplash-powered grid with pagination, search bar, and image detail bottom sheet
 - **Shared Components** — AppBar with gradient, side drawer with dark mode toggle, donation/pickup history sheets, empty states, and snackbar notifications
 - **App Theme & Design System** — Complete design token system: `AppColors`, `AppTextStyles`, `AppDimensions`, `AppDecorations`, `AppGradients`, light/dark `ThemeData`, and a responsive layout utility (`AppResponsive`) that scales across all screen sizes
 
