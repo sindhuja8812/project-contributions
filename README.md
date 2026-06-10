@@ -1,4 +1,4 @@
-# 💼 My Project Contributions
+# My Project Contributions
 
 A summary of my frontend contributions in two team projects built during my MCA program.
 
@@ -14,7 +14,7 @@ A summary of my frontend contributions in two team projects built during my MCA 
 **About the Project:**  
 ShareMeal is a real-time mobile app that connects surplus food donors with NGOs. Donors can broadcast food availability and NGOs can claim and track pickups — reducing food waste while feeding communities in need.
 
-### 📸 Screenshots
+### Screenshots
 
 | Login & Signup | Donor Dashboard | Map Picker |
 |:-:|:-:|:-:|
@@ -53,7 +53,7 @@ ShareMeal is a real-time mobile app that connects surplus food donors with NGOs.
 **About the Project:**  
 Legal Ease is a bilingual (English / Tamil) full stack web application that helps Indian citizens discover government schemes, document services, and nearby government offices — all in one place.
 
-### 📸 Screenshots
+### Screenshots
 
 | Home Page (with Voice Search) | Document Services |
 |:-:|:-:|
@@ -81,7 +81,7 @@ Legal Ease is a bilingual (English / Tamil) full stack web application that help
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - React + TypeScript frontend development with React Query and React Hook Form
 - Web Speech API integration (voice search with language switching)
